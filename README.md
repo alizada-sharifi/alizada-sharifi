@@ -34,8 +34,9 @@ I'm an enthusiastic Frontend Developer with a passion for building responsive an
 
 
 ### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](www.linkedin.com/in/alizada-sharifi2005)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alizada-sharifi2005)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:alizadasharifi2005@gmail.com)
+
 
 
 
