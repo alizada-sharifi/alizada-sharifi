@@ -25,8 +25,9 @@ I'm an enthusiastic Frontend Developer with a passion for building responsive an
 
 ### 📊 GitHub Stats
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alizada-sharifi&show_icons=true&theme=dark)
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark)
+
 
 ### 📫 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/YourUsername)
