@@ -22,7 +22,8 @@ I'm an enthusiastic Frontend Developer with a passion for building responsive an
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <!-- Add more icons as needed -->
+  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge"/>
 </p>
 
 
