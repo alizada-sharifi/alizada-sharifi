@@ -11,7 +11,7 @@
 </p>
 
 ### 👤 About Me
-I'm an enthusiastic Frontend Developer with a passion for building responsive and user-friendly web applications. I have experience in HTML, CSS, Bootstrap, Tailwind CSS, and JavaScript, and I am currently learning React to enhance my skills.
+I'm an enthusiastic Frontend Developer with a passion for building responsive and user-friendly web applications. I have experience in HTML, CSS, Bootstrap, Tailwind CSS, and JavaScript, and I am currently learning Nextjs to enhance my skills.
 
 
 ### 🛠️ Tech Stack
