@@ -1,44 +1,162 @@
-<h1 align="left">Hi, there! 👋</h1>
+<div align="center">
 
-<p align="left">
-  Thanks for visiting my GitHub profile.
-</p>
+<a id="top"></a>
 
-<h2 align="left">I am Alizada Sharifi </h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Alizada%20Sharifi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descAlignY=55&descSize=18" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:F5F7FA,100:2C5364&height=220&section=header&text=Alizada%20Sharifi&fontSize=45&fontColor=0F2027&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descAlignY=55&descSize=18&descColor=0F2027" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Alizada%20Sharifi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Web%20%26%20Mobile%20Developer&descAlignY=55&descSize=18" width="100%"/>
+</picture>
 
-<p align="center">
-  <img src="https://camo.githubusercontent.com/1df7df76bc814d8307bb49b03b5a56094bef8c90e7f888c795a2fec6f2a79908/68747470733a2f2f6173736574732d676c6f62616c2e776562736974652d66696c65732e636f6d2f3565396161363666643338383661613262346563303163612f3632663231333237316361343366623837393837343263315f657a6769662e636f6d2d6769662d6d616b65722532302832292e676966" alt="Developer illustration" width="500"/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=2C5364&center=true&vCenter=true&multiline=true&repeat=true&width=650&lines=Hi+there%2C+I'm+Alizada+%F0%9F%91%8B;Full+Stack+Developer+%7C+React+%26+Next.js;Building+with+React+Native+%F0%9F%93%B1;Currently+learning+Express.js+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-### 👤 About Me
-I'm an enthusiastic Frontend Developer with a passion for building responsive and user-friendly web applications. I have experience in HTML, CSS, Bootstrap, Tailwind CSS, JavaScript and react, and I am currently learning Nextjs to enhance my skills.
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=alizada-sharifi&label=Profile%20Views&color=2C5364&style=flat-square" alt="profile views" />
+<img src="https://img.shields.io/github/followers/alizada-sharifi?label=Followers&style=flat-square&color=2C5364&logo=github&logoColor=white" alt="followers" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Work-2ea44f?style=flat-square&logo=vercel&logoColor=white" alt="open to work" />
 
-### 🛠️ Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge"/>
-</p>
+<br/><br/>
 
+<a href="#about-me"><img src="https://img.shields.io/badge/About-2C5364?style=flat-square" /></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/Tech%20Stack-2C5364?style=flat-square" /></a>
+<a href="#github-stats"><img src="https://img.shields.io/badge/Stats-2C5364?style=flat-square" /></a>
+<a href="#github-trophies"><img src="https://img.shields.io/badge/Trophies-2C5364?style=flat-square" /></a>
+<a href="#connect-with-me"><img src="https://img.shields.io/badge/Connect-2C5364?style=flat-square" /></a>
 
+</div>
 
-### 📊 GitHub Stats
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alizada-sharifi&layout=compact&theme=dark)
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=alizada-sharifi&show_icons=true&theme=dark)
+<br/>
 
+## 🚀 About Me
 
+<table>
+<tr>
+<td width="60%" valign="top">
 
-### 📫 Contact Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/alizada-sharifi2005)
-[![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:alizadasharifi2005@gmail.com)
+- 💻 I build modern, responsive web and mobile applications
+- 🌐 Specialized in **React**, **Next.js**, and **React Native**
+- 🎨 I love clean UI with **Tailwind CSS**, **shadcn/ui**, and **Bootstrap**
+- 📚 Currently learning **Express.js** to strengthen my backend skills
+- 🔭 Currently building end-to-end **full stack** products from UI to API
+- 📫 Reach me at **alizadasharifi2022@gmail.com**
+- ⚡ Fun fact: I enjoy turning ideas into pixel-perfect, working products
 
+</td>
+<td width="40%">
 
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%"/>
 
+</td>
+</tr>
+</table>
 
+<br/>
 
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=js,ts,html,css" />
+
+### Frameworks & Libraries
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=react" /> React Native
+
+### Database & Backend
+<img src="https://skillicons.dev/icons?i=mongodb,nodejs,express" />
+
+### Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman" />
+
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=alizada-sharifi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alizada-sharifi&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=alizada-sharifi&theme=tokyonight&hide_border=true" width="60%" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alizada-sharifi&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+
+</div>
+
+<br/>
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=alizada-sharifi&theme=tokyonight&no-frame=true&row=1&column=7" width="100%" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alizada-sharifi/alizada-sharifi/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alizada-sharifi/alizada-sharifi/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/alizada-sharifi/alizada-sharifi/output/github-contribution-grid-snake-dark.svg" width="95%" />
+</picture>
+
+</div>
+
+> ℹ️ Powered by [`.github/workflows/snake.yml`](.github/workflows/snake.yml) — it runs daily, regenerates the SVG from your contribution graph, and pushes it to the `output` branch that the image above points to.
+
+<br/>
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/alizada-sharifi2005" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:alizadasharifi2022@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://t.me/A_sharifi1384" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="right">
+
+[⬆ Back to top](#top)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+⭐️ **Thanks for stopping by — feel free to explore my repos and connect!**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:F5F7FA&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+</picture>
+
+</div>
